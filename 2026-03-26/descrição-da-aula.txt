@@ -1,0 +1,35 @@
+Vimos, em aula, como organizar tabelas de dados, ou informações, em ordem alfabética A-Z, ou em ordem decrescente Z-A.
+Veremos isso novamente em exercícios.
+
+Revisamos um pouco do básico de Excel do ano passado, inclusive a fórmula mais complexa de compreender
+CONT.SE.
+
+Vimos que, em fórmula, tratamos de valores, ou dados, de diferentes tipos: número,
+texto (entre aspas) e valores VERDADEIRO e FALSO, de lógica clássica/socrática,
+que é muito útil para funções como SE.
+
+Além disso, ensinei a fórmula SE e já vimos como funciona E e OU.
+Estas últimas são tipicamente usadas dentro do SE para auxiliar nas expressões de lógica clássica.
+
+No Excel, vimos o SE na prática. Antes de escrever o SE, recomenndei que escrevessem em linguagem natural,
+ou matemática, o que facilitar seu trabalho, conforme abaixo:
+*Se NOTA maior ou igual a 6, então está aprovado. Senão, está reprovado.*
+
+Essa parte escrita acima, então, pode ser traduzida para a "linguagem do Excel":
+=SE(C2 >= 6; "Aprovado"; "Reprovado")
+
+A escrita em linguagem natural é apenas para auxliar a escrever a fórmula SE,
+sendo desnecessária para quem estiver bem com o SE.
+
+Tivemos um exercício de desafio: como responder aquela pergunta do Excel?
+
+Resolvemos o desafio usando CONT.SE junto com SE. Porém, uma outra forma seria, por exemplo, usando MAXIMO, assim.
+Primeiro, pegar o valor máximo:
+=MAXIMO(B2:B8)
+
+Depois, comparar SE o valor máximo é igual a 10:
+=SE(MAXIMO(B2:B8) = 10; "Sim"; "Não")
+
+Mais fácil, né?
+
+É possível pensar e combinar fórmulas diferentes para alcançar um mesmo resultado!
