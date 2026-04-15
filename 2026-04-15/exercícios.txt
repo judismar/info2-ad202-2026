@@ -1,0 +1,11 @@
+1) Crie uma tabela de despesas semanais, onde se coloca o rótulo da despesa (ex: compras, lanche etc.) e o valor da despesa como colunas. Preencha com pelo menos 7 linhas (7 despesas).
+
+2) Crie uma terceira coluna, chamada Muito Caro. Para cada linha, a coluna deve exibir Sim, caso o valor ultrapasse 100; senão, Não.
+
+3) Supondo que haja Lanche e Doce nas despesas: use a fórmula SE para exibir 'Gasto Desnecessário' caso tanto Lanche quanto Doce tenham ultrapassado o valor de 100 reais. Senão, exibir 'Nada'. Dica: Usar E, OU, dentro do SE; ou então, SE dentro de SE.
+
+4) Faça, em alguma célula qualquer, a soma total da coluna Valor.
+
+5) Armazene, em uma outra coluna chamada Meta, um valor para cada linha/despesa. Esse valor é a meta do gasto que pretende ter na semana (isto é, não devemos ultrapassar aquele valor).
+
+6) Crie agora uma outra coluna (de nome 'Alcançada?'), ao lado de Meta, na qual cada linha exibe 'Cumprida' caso a meta tenha sido alcançada, e 'Não cumprida' caso contrário.
