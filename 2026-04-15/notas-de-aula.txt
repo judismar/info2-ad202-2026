@@ -1,0 +1,6 @@
+Além dos exercícios, revisamos as fórmulas SE, E e OU, além de usar fórmulas dentro de fórmulas.
+
+Lembrando que o jogo Pedra, Papel e Tesoura é bem interessante para exercitar as três fórmulas.
+Recomendo usar o jogo quando se quiser praticar seus conhecimentos.
+Ponto de partida: empate, ou a vitória de um dos jogadores. O resto do raciocínio lógico se desenvolve naturalmente.
+Lembrete: o propósito desse exercício não é terminar o jogo, mas sim exercitar.
