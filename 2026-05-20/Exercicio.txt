@@ -1,0 +1,15 @@
+Na pasta Downloads, abra o arquivo eletronicos.csv com Excel, e faça os exercícios a seguir.
+
+1) Preencha a coluna Valor Total.
+
+2) Coloque filtros na tabela.
+
+3) Quantos produtos diferentes Maria Santos vendeu?
+
+4) Quanto a Carlos Oliveira, calcule a soma de todos os produtos que vendeu. Dica: SOMASE
+
+5) Quantas pessoas diferentes venderam notebooks e tablets?
+
+6) Escreva uma tabela, ao lado direito da principal, com a meta de venda a ser atingida por vendedor. Depois, na tabela principal, crie a coluna Meta Atingida?, a qual deve exibir Sim ou Não, com base na meta do vendedor de cada linha.
+
+7) Crie um gráfico de pizza para comparar as metas de cada vendedor, usando a tabela de metas.
