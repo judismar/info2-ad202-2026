@@ -1,4 +1,4 @@
-ID_Venda;Data;Vendedor;Produto;Categoria;Tamanho;Cor;Preco_Unit;Quantidade;Total
+Codigo_Venda;Data;Vendedor;Produto;Categoria;Tamanho;Cor;Preco_Unit;Quantidade;Total
 1;2025-03-01;Ana;Blusa de Manga Longa;Blusa;M;Azul;59,9;2;119,8
 2;2025-03-01;Bruno;Calça Jeans;Calça;42;Preta;129,9;1;129,9
 3;2025-03-01;Carla;Vestido Floral;Vestido;G;Vermelho;89,9;1;89,9
