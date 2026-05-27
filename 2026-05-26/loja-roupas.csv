@@ -1,26 +1,27 @@
-Codigo_Venda;Data;Vendedor;Produto;Categoria;Tamanho;Cor;Preco_Unit;Quantidade;Total
-1;2025-03-01;Ana;Blusa de Manga Longa;Blusa;M;Azul;59,9;2;119,8
-2;2025-03-01;Bruno;Calça Jeans;Calça;42;Preta;129,9;1;129,9
-3;2025-03-01;Carla;Vestido Floral;Vestido;G;Vermelho;89,9;1;89,9
-4;2025-03-02;Daniela;Camisa Polo;Camiseta;P;Branca;49,9;3;149,7
-5;2025-03-02;Eliana;Saia Midi;Saia;M;Cinza;79,9;2;159,8
-6;2025-03-02;Fabio;Jaqueta Couro;Jaqueta;G;Preta;199,9;1;199,9
-7;2025-03-03;Ana;Moletom Capuz;Moletom;GG;Verde;119,9;1;119,9
-8;2025-03-03;Gustavo;Bermuda Cargo;Bermuda;M;Bege;69,9;2;139,8
-9;2025-03-03;Bruno;Regata Esportiva;Regata;P;Azul;39,9;3;119,7
-10;2025-03-04;Carla;Blusa de Seda;Blusa;G;Rosa;89,9;1;89,9
-11;2025-03-04;Daniela;Vestido Estampado;Vestido;M;Amarelo;99,9;2;199,8
-12;2025-03-04;Eliana;Calça Legging;Calça;Único;Preta;49,9;4;199,6
-13;2025-03-05;Fabio;Camisa Xadrez;Camiseta;G;Vermelha;69,9;1;69,9
-14;2025-03-05;Gustavo;Meia Esportiva;Acessório;Único;Branca;19,9;5;99,5
-15;2025-03-05;Ana;Cinto Couro;Acessório;Único;Marrom;39,9;2;79,8
-16;2025-03-06;Bruno;Blusa Manga Curta;Blusa;M;Laranja;49,9;2;99,8
-17;2025-03-06;Carla;Jaqueta Jeans;Jaqueta;42;Azul;149,9;1;149,9
-18;2025-03-07;Daniela;Saia Jeans;Saia;P;Azul;69,9;2;139,8
-19;2025-03-07;Eliana;Vestido Longo;Vestido;M;Preto;129,9;1;129,9
-20;2025-03-07;Fabio;Camisa Social;Camiseta;G;Branca;89,9;2;179,8
-21;2025-03-08;Gustavo;Blusa Tricot;Blusa;P;Bege;79,9;1;79,9
-22;2025-03-08;Ana;Calça Pantacourt;Calça;M;Nude;99,9;2;199,8
-23;2025-03-08;Bruno;Regata Algodão;Regata;G;Verde;29,9;3;89,7
-24;2025-03-09;Carla;Moletom Leve;Moletom;M;Cinza;109,9;1;109,9
-25;2025-03-09;Daniela;Cropped;Camiseta;P;Rosa;39,9;4;159,6
+sep=;
+"Venda";"Data";"Vendedor";"Produto";"Categoria";"Tamanho";"Cor";"Preco_Unit";"Quantidade";"Total"
+"1";"2025-03-01";"Ana";"Blusa de Manga Longa";"Blusa";"M";"Azul";"59,9";"2";"119,8"
+"2";"2025-03-01";"Bruno";"Calça Jeans";"Calça";"42";"Preta";"129,9";"1";"129,9"
+"3";"2025-03-01";"Carla";"Vestido Floral";"Vestido";"G";"Vermelho";"89,9";"1";"89,9"
+"4";"2025-03-02";"Daniela";"Camisa Polo";"Camiseta";"P";"Branca";"49,9";"3";"149,7"
+"5";"2025-03-02";"Eliana";"Saia Midi";"Saia";"M";"Cinza";"79,9";"2";"159,8"
+"6";"2025-03-02";"Fabio";"Jaqueta Couro";"Jaqueta";"G";"Preta";"199,9";"1";"199,9"
+"7";"2025-03-03";"Ana";"Moletom Capuz";"Moletom";"GG";"Verde";"119,9";"1";"119,9"
+"8";"2025-03-03";"Gustavo";"Bermuda Cargo";"Bermuda";"M";"Bege";"69,9";"2";"139,8"
+"9";"2025-03-03";"Bruno";"Regata Esportiva";"Regata";"P";"Azul";"39,9";"3";"119,7"
+"10";"2025-03-04";"Carla";"Blusa de Seda";"Blusa";"G";"Rosa";"89,9";"1";"89,9"
+"11";"2025-03-04";"Daniela";"Vestido Estampado";"Vestido";"M";"Amarelo";"99,9";"2";"199,8"
+"12";"2025-03-04";"Eliana";"Calça Legging";"Calça";"Único";"Preta";"49,9";"4";"199,6"
+"13";"2025-03-05";"Fabio";"Camisa Xadrez";"Camiseta";"G";"Vermelha";"69,9";"1";"69,9"
+"14";"2025-03-05";"Gustavo";"Meia Esportiva";"Acessório";"Único";"Branca";"19,9";"5";"99,5"
+"15";"2025-03-05";"Ana";"Cinto Couro";"Acessório";"Único";"Marrom";"39,9";"2";"79,8"
+"16";"2025-03-06";"Bruno";"Blusa Manga Curta";"Blusa";"M";"Laranja";"49,9";"2";"99,8"
+"17";"2025-03-06";"Carla";"Jaqueta Jeans";"Jaqueta";"42";"Azul";"149,9";"1";"149,9"
+"18";"2025-03-07";"Daniela";"Saia Jeans";"Saia";"P";"Azul";"69,9";"2";"139,8"
+"19";"2025-03-07";"Eliana";"Vestido Longo";"Vestido";"M";"Preto";"129,9";"1";"129,9"
+"20";"2025-03-07";"Fabio";"Camisa Social";"Camiseta";"G";"Branca";"89,9";"2";"179,8"
+"21";"2025-03-08";"Gustavo";"Blusa Tricot";"Blusa";"P";"Bege";"79,9";"1";"79,9"
+"22";"2025-03-08";"Ana";"Calça Pantacourt";"Calça";"M";"Nude";"99,9";"2";"199,8"
+"23";"2025-03-08";"Bruno";"Regata Algodão";"Regata";"G";"Verde";"29,9";"3";"89,7"
+"24";"2025-03-09";"Carla";"Moletom Leve";"Moletom";"M";"Cinza";"109,9";"1";"109,9"
+"25";"2025-03-09";"Daniela";"Cropped";"Camiseta";"P";"Rosa";"39,9";"4";"159,6"
